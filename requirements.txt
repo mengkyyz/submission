@@ -1,8 +1,8 @@
-pandas==1.5.3
+pandas==2.2.3
 numpy==1.23.5
-matplotlib
-seaborn
-streamlit
+matplotlib==3.9.2
+seaborn==0.13.2
+streamlit==1.38.0
 scikit-learn
 setuptools
 pip==24.2
